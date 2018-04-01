@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: d74f642f86955bf44bb9029b1ed6e4fd
+  productGUID: 693b3df4a917ed440a88bd095ee78255
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -12,7 +12,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Zen Garden
+  productName: Zen-Garden
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -557,14 +557,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Zen Garden
+  metroPackageName: Zen-Garden
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Zen Garden
+  metroApplicationDescription: Zen-Garden
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -633,8 +633,8 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: de2d4a4e-2e4e-4220-b880-d20bf9f801a3
-  projectName: Zen Garden (3)
+  cloudProjectId: 8b1b2af0-a03a-4fca-abec-5d26065a2de2
+  projectName: Zen-Garden
   organizationId: spencer-2267094
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
