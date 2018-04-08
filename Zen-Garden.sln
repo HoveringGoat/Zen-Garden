@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zen-Garden", "Zen-Garden.csproj", "{BBD2F9F3-9810-753F-9A16-8A84C0F69BC3}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zen-Garden", "Assembly-CSharp.csproj", "{CE636BE7-0E33-36AF-F452-97E2D3692DD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BBD2F9F3-9810-753F-9A16-8A84C0F69BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BBD2F9F3-9810-753F-9A16-8A84C0F69BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BBD2F9F3-9810-753F-9A16-8A84C0F69BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BBD2F9F3-9810-753F-9A16-8A84C0F69BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE636BE7-0E33-36AF-F452-97E2D3692DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE636BE7-0E33-36AF-F452-97E2D3692DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE636BE7-0E33-36AF-F452-97E2D3692DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE636BE7-0E33-36AF-F452-97E2D3692DD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
